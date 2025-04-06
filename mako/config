@@ -1,0 +1,20 @@
+# Appearance
+font=Noto Sans Nerd Font 10
+background-color=#282c34
+text-color=#ffffff
+border-color=#61afef
+border-size=2
+default-timeout=3000
+width=400
+height=300
+padding=10
+margin=10
+border-radius=20
+
+# Positioning
+anchor=top-right
+layer=overlay
+margin=20
+
+# Behavior
+ignore-timeout=1
