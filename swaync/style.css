@@ -13,8 +13,8 @@
 @define-color bg-selected rgb(0, 128, 255);
 .notification-row {
   outline: none;
-  margin-top: 4px;
-  margin-right: -12px;
+  margin-top: 5px;
+  margin-right: -11px;
 }
 
 .notification-row:focus, .notification-row:hover {
